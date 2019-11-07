@@ -1,7 +1,6 @@
 require "pry"
 
 def welcome
-  # code #welcome here
   puts "Welcome to the Blackjack Table"
 end
 
@@ -71,7 +70,6 @@ end
 #####################################################
 
 def runner
-  # code runner here
   welcome 
   sum_cards = initial_round
   
